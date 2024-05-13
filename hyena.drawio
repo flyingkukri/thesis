@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T13:45:48.005Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="NLWNGUX3Ijn9uixILq08" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T14:06:40.077Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="AC9NcoaD_bSIFsukSplt" version="24.4.0" type="github">
   <diagram name="Page-1" id="wGf5R7sx8XBUqBo0aK0b">
-    <mxGraphModel dx="2049" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="790" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zw45EAOEBZMLgNeasYMU-150" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="230" width="60" height="200" as="geometry" />
+          <mxGeometry x="1285" y="220" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zw45EAOEBZMLgNeasYMU-151" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#82b366;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#d5e8d4;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zw45EAOEBZMLgNeasYMU-150" vertex="1">
           <mxGeometry width="60" height="40" as="geometry" />
@@ -48,16 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Idwmsc8iQtLyrbmLDRy-4" value="$$\text{Column (model dimension)} $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="190" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7Idwmsc8iQtLyrbmLDRy-5" value="$$\text{Row }$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="332" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7Idwmsc8iQtLyrbmLDRy-6" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;$$\text{(sequence length)}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="370" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7Idwmsc8iQtLyrbmLDRy-7" value="&lt;font&gt;&lt;span style=&quot;background-color: rgb(248, 228, 92);&quot;&gt;$$\text{species token} $$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#00A105;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="280" width="200" height="30" as="geometry" />
+          <mxGeometry x="1230" y="180" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Idwmsc8iQtLyrbmLDRy-12" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="230" y="710" width="360" height="240" as="geometry" />
@@ -500,7 +491,7 @@
           <mxGeometry x="910" y="180" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Idwmsc8iQtLyrbmLDRy-308" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="570" width="60" height="200" as="geometry" />
+          <mxGeometry x="1285" y="570" width="60" height="200" as="geometry" />
         </mxCell>
         <mxCell id="7Idwmsc8iQtLyrbmLDRy-309" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#82b366;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#d5e8d4;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7Idwmsc8iQtLyrbmLDRy-308">
           <mxGeometry width="60" height="40" as="geometry" />
@@ -543,16 +534,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Idwmsc8iQtLyrbmLDRy-329" value="$$\text{Column (model dimension)} $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="530" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7Idwmsc8iQtLyrbmLDRy-330" value="$$\text{Row }$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="672" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7Idwmsc8iQtLyrbmLDRy-331" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;$$\text{(sequence length)}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="710" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7Idwmsc8iQtLyrbmLDRy-332" value="&lt;font&gt;&lt;span style=&quot;background-color: rgb(248, 228, 92);&quot;&gt;$$\text{species token} $$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#00A105;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="620" width="200" height="30" as="geometry" />
+          <mxGeometry x="1230" y="530" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Idwmsc8iQtLyrbmLDRy-333" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="890" y="560" width="300" height="227" as="geometry" />
@@ -701,7 +683,31 @@
           <mxGeometry x="910" y="520" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7Idwmsc8iQtLyrbmLDRy-368" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;fillColor=#474747;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="260" width="10" height="20" as="geometry" />
+          <mxGeometry x="1305" y="250" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7Idwmsc8iQtLyrbmLDRy-469" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1315" y="260" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Idwmsc8iQtLyrbmLDRy-5" value="$$\text{Row }$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7Idwmsc8iQtLyrbmLDRy-469">
+          <mxGeometry x="45" y="52" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Idwmsc8iQtLyrbmLDRy-6" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;$$\text{(sequence length)}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7Idwmsc8iQtLyrbmLDRy-469">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Idwmsc8iQtLyrbmLDRy-7" value="&lt;font&gt;&lt;span style=&quot;background-color: rgb(248, 228, 92);&quot;&gt;$$\text{species token} $$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#00A105;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="220" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Idwmsc8iQtLyrbmLDRy-470" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1320" y="610" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7Idwmsc8iQtLyrbmLDRy-471" value="$$\text{Row }$$" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7Idwmsc8iQtLyrbmLDRy-470">
+          <mxGeometry x="45" y="52" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Idwmsc8iQtLyrbmLDRy-472" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;$$\text{(sequence length)}$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="7Idwmsc8iQtLyrbmLDRy-470">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Idwmsc8iQtLyrbmLDRy-473" value="&lt;font&gt;&lt;span style=&quot;background-color: rgb(248, 228, 92);&quot;&gt;$$\text{species token} $$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontColor=#00A105;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="570" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
